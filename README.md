@@ -4,8 +4,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Click here!]()
-- Live Site URL: [Click here!]()
+- Solution URL: [Click here!](https://github.com/logic23dev/product-preview-card-component)
+- Live Site URL: [Click here!](https://logic23dev.github.io/product-preview-card-component/)
 
 ### Built with
 
